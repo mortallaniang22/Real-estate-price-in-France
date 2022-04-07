@@ -1,14 +1,21 @@
 # DataImmo
-Modèle de prédiction et de recommandation du prix de vente des biens immobiliers en France
-Données traitées : Demandes de valeurs foncières
-Source des données : https://www.data.gouv.fr/fr/datasets/5c4ae55a634f4117716d5656/
+Modèle de prédiction et de recommandation du prix de vente des biens immobiliers en France.
+
+Données traitées : Demandes de valeurs foncières.
+
+Source des données : https://www.data.gouv.fr/fr/datasets/5c4ae55a634f4117716d5656/.
+
 Techno : Power query, Power architect, MySQL, PostgreSQL
 
 ## Contenu du dossier
-1 Schéma relationnel
-1 script MySQL pour la création des tables
-1 script PostgreSQL pour la création des tables
-4 fichiers fichiers csv
+1 Schéma relationnel.
+
+1 script MySQL pour la création des tables.
+
+1 script PostgreSQL pour la création des tables.
+
+4 fichiers fichiers csv.
+
 9 requêtes MySQL 
 
 ## Les requêtes
