@@ -8,6 +8,8 @@ Source des données : https://www.data.gouv.fr/fr/datasets/5c4ae55a634f4117716d5
 Techno : Power query, Power architect, MySQL, PostgreSQL
 
 ## Contenu du dossier
+1 Dictionnaire de données.
+
 1 Schéma relationnel.
 
 1 script MySQL pour la création des tables.
