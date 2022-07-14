@@ -1,6 +1,6 @@
 ## Real estate Price in France
 
-In this project, we built a real estate price forecast model in France
+In this project, we built a real estate price forecast model in France with SQL.
 
 We used [Requests for land values](https://www.data.gouv.fr/fr/datasets/5c4ae55a634f4117716d5656/) data from [Data.gouv](https://www.data.gouv.fr/fr/).
 
