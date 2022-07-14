@@ -9,7 +9,7 @@ We used [Requests for land values](https://www.data.gouv.fr/fr/datasets/5c4ae55a
 
 ### Data dictionary
 
-
+<img alt="MySQL" width="80%" src="./dico.png" style="padding-right:10px;" />
 
 ### Data cleaning
 
@@ -18,7 +18,7 @@ We used **Excel** and **Power Query** for data preparation
 ### Database Design
 We used **Power Architect** to design the datase.
 
-<img alt="MySQL" width="60%" src="./dbdesign.png" style="padding-right:10px;" />
+<img alt="MySQL" width="80%" src="./dbdesign.png" style="padding-right:10px;" />
 
 ### The model
 We used **MySQL** to implement the model
